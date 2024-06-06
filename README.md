@@ -11,6 +11,6 @@
  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&width=420&lines=🐉+🄹🄾🄸🄽+🄾🅄🅁+🅂🅄🄿🄿🄾🅁🅃+🄶🅁🄾🅄🄿+🐉">
 
 
-<a href="https://t.me/GOD_R4V4N"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/C0DE_RAVAN"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 <a href="https://instagram.com/itz_Asuraa"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
