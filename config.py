@@ -26,7 +26,7 @@ SUPPORT_GRP = getenv("SUPPORT_GRP", "Ravan_Lankaa")
 UPDATE_CHNL = getenv("UPDATE_CHNL", "God_Ravana")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-OWNER_USERNAME = getenv("OWNER_USERNAME", "GOD_R4V4N")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "C0DE_RAVAN")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
 BOT_USERNAME = getenv("BOT_USERNAME", None)
