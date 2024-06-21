@@ -62,6 +62,5 @@ Feel free to fork this repository, make feature branches, and submit pull reques
 # Contact
 
 <a href="https://t.me/itzAsuraa"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
-
 <a href="https://instagram.com/itz_Asuraa"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
