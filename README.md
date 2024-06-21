@@ -31,5 +31,16 @@ To start the bot locally:
 python3 -m Aaru
 ```
 
+## Deployment
+
+# Docker 
+  
+  Build and run the Docker container:
+```sh
+docker build -t aaru-chatbot .
+docker run -d -p 8000:8000 aaru-chatbot
+```
+
+
 
 
