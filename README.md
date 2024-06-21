@@ -31,14 +31,28 @@ To start the bot locally:
 python3 -m Aaru
 ```
 
-## Deployment
+# Deployment
 
-# Docker 
+## Docker 
   
   Build and run the Docker container:
 ```sh
 docker build -t aaru-chatbot .
 docker run -d -p 8000:8000 aaru-chatbot
+```
+## Heroku
+
+1. Install the Heroku CLI and log in:
+```sh
+heroku login
+```
+2. Create a new Heroku app:
+```sh
+heroku create Aaru
+```
+3. Deploy the app:
+```sh
+git push heroku main
 ```
 
 
