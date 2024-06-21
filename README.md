@@ -55,6 +55,9 @@ heroku create Aaru
 git push heroku main
 ```
 
+# Contributing
 
+Feel free to fork this repository, make feature branches, and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
+#Contact
 
